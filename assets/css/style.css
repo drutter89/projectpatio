@@ -1,0 +1,53 @@
+body {
+  background-image: url("https://cache.marriott.com/propertyimages/a/aussh/0-Modules/restaurants/knotty_deck/aussh_knottyDeck_home.jpg");
+  background-repeat: inherit;
+  background-size: 120%;
+}
+
+#jumbo {
+  background-color: rgba(59, 56, 56, 0.281);
+  color: rgb(243, 242, 223);
+  text-align: center;
+  font-family: 'Courgette', cursive;
+  font-size: 40px;
+  align-content: center;
+  border-style: solid;
+  border-width: 1px;
+}
+
+h1 {
+  color: rgb(243, 242, 223);
+  text-align: center;
+  font-size: 50px;
+  align-content: center;
+}
+
+#display {
+  color: rgb(243, 242, 223);
+  text-align: center;
+  font-size: 40px;
+  align-content: center;
+  font-family: 'Courgette', cursive;
+}
+
+#restaurants {
+  color: rgb(243, 242, 223);
+  background-color: rgba(59, 56, 56, 0.281);
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+  font-family: 'Courgette', cursive;
+}
+
+#weather {
+  color: rgb(243, 242, 224);
+  background-color: rgba(59, 56, 56, 0.281);
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+  font-family: 'Courgette', cursive;
+}
+
+#mapSmall {
+  position: relative;
+}
